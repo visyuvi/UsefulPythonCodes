@@ -18,4 +18,3 @@ s = 0
 for i in range(len(L1)):
     s += (max(L1n[i], L2n[i]))
 print(s)
- 
